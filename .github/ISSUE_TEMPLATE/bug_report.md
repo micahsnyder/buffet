@@ -20,10 +20,9 @@ A clear and concise description of the bug or feature request. Do not report an 
 
 ### ClamAV version, settings, and system details
 
-On the command line, run this and replace this text with the output. This information will help the team identify possible triggers for your bug:
-```bash
-clamconf -n
-```
+On the command line, run this and replace this text with the output:
+
+    clamconf -n
 
 ### 3rd party signatures
 
