@@ -11,9 +11,7 @@ assignees: ''
 
 Security issues must *never* be reported on GitHub Issues because GitHub Issues are public by default. A security issue, or vulnerability, may be any bug that represents a threat to the security of the ClamAV users or any issue that a malicious person could use to cause a Denial of Service (DoS) attack on a network service running ClamAV, such as a mail filter or file upload scanner.
 
-Read our Security Policy to find security issue reporting instructions:
-  https://github.com/Cisco-Talos/clamav/security/policy 
-  
+Read our Security Policy to find security issue reporting instructions: https://github.com/Cisco-Talos/clamav/security/policy
 If you are unsure if your bug is a security issue, please report it as a security issue. -->
 
 ### Describe the bug
