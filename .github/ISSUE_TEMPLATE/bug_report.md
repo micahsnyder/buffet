@@ -7,11 +7,14 @@ assignees: ''
 
 ---
 
-<!-- *STOP!* Please verify that the issue you're reporting is not a security issue before you continue.
+<!-- STOP! Please verify that the issue you're reporting is not a security issue before you continue.
 
-Security issues must **never** be reported on GitHub Issues because GitHub Issues are public by default. A security issue, or vulnerability, may be any bug that represents a threat to the security of the ClamAV users or any issue that a malicious person could use to cause a Denial of Service (DoS) attack on a network service running ClamAV, such as a mail filter or file upload scanner.
+Security issues must *never* be reported on GitHub Issues because GitHub Issues are public by default. A security issue, or vulnerability, may be any bug that represents a threat to the security of the ClamAV users or any issue that a malicious person could use to cause a Denial of Service (DoS) attack on a network service running ClamAV, such as a mail filter or file upload scanner.
 
-**If you are unsure if your bug is a security issue, please report it as a security issue.** Read [our Security Policy](https://github.com/Cisco-Talos/clamav/security/policy) to find security issue reporting instructions. -->
+Read our Security Policy to find security issue reporting instructions:
+  https://github.com/Cisco-Talos/clamav/security/policy 
+  
+If you are unsure if your bug is a security issue, please report it as a security issue. -->
 
 ### Describe the bug
 
