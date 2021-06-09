@@ -33,18 +33,15 @@ Please tell us if you are using any unofficial signature databases, that is anyt
 
 Include specific steps needed to reproduce the issue.
 
-If the issue is reproducible only when scanning a specific file, attach it to the ticket.
+<!-- If the issue is reproducible only when scanning a specific file, attach it to the ticket.
+
+**CAUTION**: Don’t forget to encrypt it if the file may be (or should be) detected as malware!
+On the command line, run:
+    zip -P virus -e file.zip file.ext
 
 *Large Files*: The maximum size for file attachments on GitHub Issues is 25MB and the maximum size for images is 10MB. If the file is too big to mail it, you can upload it to a password protected website and send us the URL and the credentials to access it.
 
-If your file must be kept confidential you can reach out on the [ClamAV Discord chat server](https://discord.gg/6vNAqWnVgw) to exchange email addresses and to share the zipped file or to share the zip password.
-
-> **CAUTION**: Don’t forget to encrypt it if the file may be (or should be) detected as malware!
->
-> On the command line, run:
-> ```bash
-> zip -P virus -e file.zip file.ext
-> ```
+If your file must be kept confidential you can reach out on the [ClamAV Discord chat server](https://discord.gg/6vNAqWnVgw) to exchange email addresses and to share the zipped file or to share the zip password. -->
 
 ### Screenshots
 
